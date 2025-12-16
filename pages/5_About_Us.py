@@ -183,7 +183,7 @@ st.markdown("""
         <p style="margin: 0;">
             <b>Tugas Besar Akuisisi Data - Sistem Analisis Depresi Mahasiswa</b><br>
             Dibuat dengan ❤️ menggunakan Streamlit, Python, dan Scikit-learn<br>
-            <small>© 2024 - Universitas Andalas</small>
+            <small>© 2025 - Universitas Andalas</small>
         </p>
     </div>
 """, unsafe_allow_html=True)
